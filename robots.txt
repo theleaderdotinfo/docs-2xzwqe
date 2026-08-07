@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-x0azoa.juragan89a.site/sitemap.xml
